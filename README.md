@@ -47,15 +47,21 @@
 
 ## Output:
 
-![380365438-939ab922-0dad-49d6-9186-5d13a784ca84](https://github.com/user-attachments/assets/![380365448-9dcf2429-2e05-4513-9f9d-ae7d0c2a519e](https://github.com/user-attachments/assets/83a51445-cc62-4c8d-bd16-43cc82f2f772)
-e25396de-8b4c-48fd-ab8b-e94f09d904b0)
-![380365462-65402442-8421-4247-9906-750b2c51cdc6](https://github.com/user-attachments/assets/6dba761c-0612-4844-9ab8-a4eab9734789)
+
+![380365438-939ab922-0dad-49d6-9186-5d13a784ca84](https://github.com/user-attachments/assets/599a7903-150c-4828-9fba-e1318a53c697)
+
+
+![380365448-9dcf2429-2e05-4513-9f9d-ae7d0c2a519e](https://github.com/user-attachments/assets/6d908b34-2fbe-4b09-89d7-b994ac4ff3f9)
+
+![380365462-65402442-8421-4247-9906-750b2c51cdc6](https://github.com/user-attachments/assets/1a7db338-f97f-45b3-9c5c-cd2f1e4316c1)
 
 
 
 
-### Name:
-### Register Number:
+
+
+### Name:NITHEESH KUMAR B
+### Register Number:212224230189
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
