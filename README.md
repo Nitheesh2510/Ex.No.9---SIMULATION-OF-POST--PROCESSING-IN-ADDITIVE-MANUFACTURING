@@ -47,6 +47,13 @@
 
 ## Output:
 
+![380365438-939ab922-0dad-49d6-9186-5d13a784ca84](https://github.com/user-attachments/assets/![380365448-9dcf2429-2e05-4513-9f9d-ae7d0c2a519e](https://github.com/user-attachments/assets/83a51445-cc62-4c8d-bd16-43cc82f2f772)
+e25396de-8b4c-48fd-ab8b-e94f09d904b0)
+![380365462-65402442-8421-4247-9906-750b2c51cdc6](https://github.com/user-attachments/assets/6dba761c-0612-4844-9ab8-a4eab9734789)
+
+
+
+
 ### Name:
 ### Register Number:
 
